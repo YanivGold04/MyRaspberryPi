@@ -69,7 +69,7 @@ This project helped me get hands-on with:
 - IT infrastructure and automation concepts
 
 ## Screenshots
-
+![image](https://github.com/user-attachments/assets/8ebbdc1f-a84b-4b34-a717-684fc53be0a9)
 
 
 ## Credits
